@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import './App.css';
   
 import Works from "./components/Works";
-import Possibility from "./components/Possibility";
+import Possibility from "./components/";
 
 
 const Container = styled.div`
